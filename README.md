@@ -8,3 +8,5 @@ Incase you want to run this application without using IDE copy this contents as 
 Start the server.
 Open the browser and type the below URL.
 http://localhost:8080/healthInsurancePremiumQuoteGenerator/user.jsp
+Enter your inputs and click on submit.  
+You will get the desired output on the same browser window.
